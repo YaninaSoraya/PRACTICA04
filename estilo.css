@@ -1,0 +1,19 @@
+*{
+	box-sizing:border-box;
+	margin:0;padding:0;
+}
+body{
+	background-color: rgb(225, 186, 186);
+}
+form{
+    width:600px;
+	padding:42px;
+	border:2px solid #000;
+	border-radius:10px;
+	margin:32px auto;
+	background-color:#a0bffc;
+}
+button{
+    background-color: dimgray;
+    width: 100px;
+}
